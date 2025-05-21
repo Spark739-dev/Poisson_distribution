@@ -1,4 +1,6 @@
 # Fitting Poisson  distribution
+## NAME:VESHWANTH
+## REG NO: 212224230300
 # Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
